@@ -36,7 +36,7 @@ def trip_cost(city, days):
     return sum
 
 d=int(input("Enter the amount of days you wish to stay(In digit): ")) 
-c=input("Enter the city you are going to\n1. Paris\n2. London\n3. Berlin\n4. New York :")   
+c=input("Enter the city you are going to\n1. acpParis\n2. London\n3. Berlin\n4. New York :")   
 
 print()
 print(f"Hotel cost: ${hotel_cost(d)}") 
